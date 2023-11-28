@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T09:53:56.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QWK5hcVxLah9oeCxFLOA" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T10:05:36.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z-81LKEoEoeBmDHk52Eh" version="22.1.4" type="github">
   <diagram name="Page-1" id="fAGPjpqQRq8lYAHcTVfP">
     <mxGraphModel dx="1194" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajlA4hBaIoCkkUjskrhl-9" value="Apigee Edge &lt;br&gt;nonProd" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ajlA4hBaIoCkkUjskrhl-9" value="Apigee Edge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1268" y="665" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ajlA4hBaIoCkkUjskrhl-10" value="Basic Auth&lt;br&gt;User Apigee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -407,7 +407,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajlA4hBaIoCkkUjskrhl-47" value="Apigee Edge &lt;br&gt;nonProd" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ajlA4hBaIoCkkUjskrhl-47" value="Apigee Edge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1280" y="266" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ajlA4hBaIoCkkUjskrhl-48" value="Basic Auth&lt;br&gt;User Apigee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -502,6 +502,18 @@
         </mxCell>
         <mxCell id="ajlA4hBaIoCkkUjskrhl-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ajlA4hBaIoCkkUjskrhl-74" target="ajlA4hBaIoCkkUjskrhl-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajlA4hBaIoCkkUjskrhl-82" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="424" as="sourcePoint" />
+            <mxPoint x="1651" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajlA4hBaIoCkkUjskrhl-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Existing&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ajlA4hBaIoCkkUjskrhl-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Target&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="843" y="790" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
