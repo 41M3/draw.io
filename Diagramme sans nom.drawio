@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T16:10:27.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UMOHDlk30LsqEmw8G5NI" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T16:13:19.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p0KReWw62m6UtRJodAS6" version="22.1.8" type="github">
   <diagram name="Page-1" id="TCbED7byFOWOQN_TwaIs">
-    <mxGraphModel dx="1038" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,30 @@
         </mxCell>
         <mxCell id="Pcy0TyKWnrjDvyqSp6Rt-15" value="Youtube Music" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Pcy0TyKWnrjDvyqSp6Rt-9">
           <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcy0TyKWnrjDvyqSp6Rt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pcy0TyKWnrjDvyqSp6Rt-3" target="Pcy0TyKWnrjDvyqSp6Rt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcy0TyKWnrjDvyqSp6Rt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pcy0TyKWnrjDvyqSp6Rt-3" target="Pcy0TyKWnrjDvyqSp6Rt-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="270" />
+              <mxPoint x="330" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pcy0TyKWnrjDvyqSp6Rt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;" edge="1" parent="1" source="Pcy0TyKWnrjDvyqSp6Rt-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="250" />
+              <mxPoint x="190" y="250" />
+              <mxPoint x="190" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pcy0TyKWnrjDvyqSp6Rt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;dashed=1;" edge="1" parent="1" source="Pcy0TyKWnrjDvyqSp6Rt-6" target="Pcy0TyKWnrjDvyqSp6Rt-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
