@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:42:29.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.1" etag="-SI0Vjt2HJCAaAdPaECa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T11:58:17.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Lr6VGg2PzLRZoGf6HHzZ" version="24.2.1" type="github">
   <diagram name="Page-1" id="LHj99ofY-UOiCt3SHxma">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-2" target="TYZegcAkD9qDsrFWGDyM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-2" value="&lt;b&gt;APP SNCF 1&lt;/b&gt;&lt;div&gt;billy.bob@sncf.fr&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-3" target="TYZegcAkD9qDsrFWGDyM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-3" value="&lt;b&gt;APP SNCF 2&lt;/b&gt;&lt;div&gt;john.smith@sncf.fr&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-4" target="TYZegcAkD9qDsrFWGDyM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-4" value="&lt;b&gt;APP SNCF 3&lt;/b&gt;&lt;div&gt;marc.durand@sncf.fr&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="480" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-10" value="&lt;b&gt;TEAM APP SNCF&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-11" value="&lt;b&gt;Administrator :&lt;/b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;billy.bob@sncf.fr&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Developers :&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;billy.bob@sncf.fr&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;john.smith@sncf.fr&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;marc.durand@sncf.fr&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-12" value="&lt;b&gt;APP SNCF 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-13" value="&lt;b&gt;APP SNCF 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-14" value="&lt;b&gt;APP SNCF 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-19" target="TYZegcAkD9qDsrFWGDyM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-19" value="&lt;b&gt;APP Payment&lt;/b&gt;&lt;div&gt;billy.bob@accor.com&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-21" target="TYZegcAkD9qDsrFWGDyM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-21" value="&lt;b&gt;APP APS&lt;/b&gt;&lt;div&gt;john.smith@consulting-for.&lt;span style=&quot;background-color: initial;&quot;&gt;accor.com&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYZegcAkD9qDsrFWGDyM-23" target="TYZegcAkD9qDsrFWGDyM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-23" value="&lt;b&gt;APP PSP&lt;/b&gt;&lt;div&gt;marc.durand@&lt;span style=&quot;background-color: initial;&quot;&gt;accor.com&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-25" value="&lt;b&gt;TEAM APP ACCOR-Payment&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-26" value="&lt;b&gt;Administrator :&lt;/b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;billy.bob@accor.com&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Developers :&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;billy.bob@&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;accor.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;john.smith@consulting-for.&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;accor.com&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;marc.durand@&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;accor.com&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-27" value="&lt;b&gt;APP Payment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-28" value="&lt;b&gt;APP APS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYZegcAkD9qDsrFWGDyM-29" value="&lt;b&gt;APP PSP&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
