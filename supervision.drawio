@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:42:58.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AzxHk1PhYnJO1YruJo2y" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.17" pages="4">
   <diagram name="Page-1" id="tpOJ9a9pUT4eBlT_nwzV">
     <mxGraphModel dx="1194" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,7 +632,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0-VOxlNAxyxKa-94SHn1" name="Page-3">
-    <mxGraphModel dx="1194" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -663,6 +663,50 @@
         </mxCell>
         <mxCell id="w2mWZrwjpY-RN5rZax6K-10" value="&lt;b&gt;Check&lt;/b&gt; by &lt;i&gt;&lt;b&gt;X&amp;nbsp;&lt;/b&gt;&lt;/i&gt;min&lt;div&gt;&lt;b&gt;Alerting&lt;/b&gt; if HTTP_Code errors &amp;gt; &lt;i&gt;&lt;b&gt;X&lt;/b&gt;&lt;/i&gt; %&amp;nbsp;&lt;br&gt;&lt;div&gt;If Alerting, &lt;b&gt;throttling&lt;/b&gt; of &lt;b&gt;&lt;i&gt;X&amp;nbsp;&lt;/i&gt;&lt;/b&gt;h&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alerting by &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;webhook&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; to API Portal&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="200" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvlnCUqDajBHQ4iFNoXL-3" target="PvlnCUqDajBHQ4iFNoXL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-2" value="Run Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvlnCUqDajBHQ4iFNoXL-1">
+          <mxGeometry x="0.1611" y="-1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-3" value="API 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-7" value="Splunk&lt;br&gt;Log Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-8" value="&lt;b&gt;Check&lt;/b&gt; by &lt;i&gt;&lt;b&gt;X&amp;nbsp;&lt;/b&gt;&lt;/i&gt;min&lt;div&gt;&lt;b&gt;Alerting&lt;/b&gt; if HTTP_Code errors &amp;gt; &lt;i&gt;&lt;b&gt;X&lt;/b&gt;&lt;/i&gt; %&amp;nbsp;&lt;br&gt;&lt;div&gt;If Alerting, &lt;b&gt;throttling&lt;/b&gt; of &lt;b&gt;&lt;i&gt;X&amp;nbsp;&lt;/i&gt;&lt;/b&gt;h&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alerting by &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;webhook&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; to API Portal&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-9" value="Apigee Proxy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-10" value="API Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PvlnCUqDajBHQ4iFNoXL-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-12" value="Webhook" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvlnCUqDajBHQ4iFNoXL-11">
+          <mxGeometry x="0.0417" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="459.64" as="sourcePoint" />
+            <mxPoint x="520" y="459.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvlnCUqDajBHQ4iFNoXL-14" value="Webhook" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvlnCUqDajBHQ4iFNoXL-13">
+          <mxGeometry x="0.0417" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
