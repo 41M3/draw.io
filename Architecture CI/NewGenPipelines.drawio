@@ -381,7 +381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DvS8Mzi3IjFrtUhKw516" name="Page-3">
-    <mxGraphModel dx="1273" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,6 +393,11 @@
         </mxCell>
         <mxCell id="zLPZG1y3GBXZqs8FTs6L-58" value="//" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zLPZG1y3GBXZqs8FTs6L-1">
           <mxGeometry x="-0.3814" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-67" value="//" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zLPZG1y3GBXZqs8FTs6L-1">
+          <mxGeometry x="0.5629" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -545,10 +550,20 @@
             <mxPoint x="720" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-90" value="//" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zLPZG1y3GBXZqs8FTs6L-45">
+          <mxGeometry x="0.5272" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zLPZG1y3GBXZqs8FTs6L-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zLPZG1y3GBXZqs8FTs6L-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="680" as="sourcePoint" />
             <mxPoint x="720" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-91" value="//" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zLPZG1y3GBXZqs8FTs6L-46">
+          <mxGeometry x="0.5258" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zLPZG1y3GBXZqs8FTs6L-47" value="APIGEE&lt;br&gt;REC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -571,6 +586,84 @@
         </mxCell>
         <mxCell id="zLPZG1y3GBXZqs8FTs6L-66" value="&lt;ol style=&quot;box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-variant-ligatures: none; margin: 0px; display: flex; flex-wrap: nowrap; padding: 0px; list-style: none; background-color: rgb(255, 255, 255); border-radius: 0.25rem; align-items: center; line-height: 1rem; max-width: 100%; color: rgb(58, 56, 63); font-family: &amp;quot;GitLab Sans&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot; class=&quot;gl-breadcrumb-list breadcrumb&quot;&gt;&lt;li style=&quot;box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; line-height: 1rem; flex-shrink: 0; font-size: 0.75rem;&quot; class=&quot;gl-breadcrumb-item gl-breadcrumb-item-sm&quot;&gt;&lt;a style=&quot;box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; color: rgb(98, 97, 104); text-decoration-style: solid; text-decoration-color: currentcolor; display: inline-block; border-radius: 0.25rem; transition: box-shadow 0.2s cubic-bezier(0.22, 0.61, 0.36, 1), text-decoration-color 0.2s cubic-bezier(0.22, 0.61, 0.36, 1); box-shadow: rgb(255, 255, 255) 0px 0px 0px 1px, rgb(31, 117, 203) 0px 0px 0px 3px; outline: none;&quot; class=&quot;&quot; href=&quot;https://gitlab.softfactory-accor.net/rbac/cd/welcome-connect/wcboo/apigee/OPEN_DIST_WCBNO_BASKET_DARK_CANARY_v1/-/pipelines&quot;&gt;&lt;span style=&quot;box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; vertical-align: middle;&quot; class=&quot;gl-align-middle&quot;&gt;Pipelines&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-68" value="rec-deploy-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-69" value="rec-rollback-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-70" value="&lt;font&gt;rec-deploy-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="160" />
+              <mxPoint x="720" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-71" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;rec-rollback-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-78" value="preprod-deploy-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="440.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-79" value="preprod-rollback-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-80" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;preprod-deploy-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="440.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="400" />
+              <mxPoint x="720" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-81" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;preprod-rollback-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-82" value="prod-deploy-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="679.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-83" value="prod-rollback-kvm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-84" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;prod-deploy-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLPZG1y3GBXZqs8FTs6L-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="679.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="640" />
+              <mxPoint x="720" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLPZG1y3GBXZqs8FTs6L-85" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;prod-rollback-ipwhitelist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
