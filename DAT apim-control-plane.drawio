@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3" pages="6">
   <diagram name="Page-1" id="u5Il2knaXHhjSZ7KjETP">
     <mxGraphModel dx="1323" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1036,6 +1036,69 @@
           <mxGeometry relative="1" x="0.0348" y="-2" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GLQ_H26JapbGWrKmHQTt" name="Page-6">
+    <mxGraphModel dx="1257" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-6" edge="1" parent="1" source="kEvUB6g1BLyu1ymYnCJj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kEvUB6g1BLyu1ymYnCJj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-13" connectable="0" parent="kEvUB6g1BLyu1ymYnCJj-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Interacts with control-plane using &lt;br&gt;gitlab-ci or terraform configurations" vertex="1">
+          <mxGeometry relative="1" x="-0.2667" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=37;fillColor=#4D4D4D;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;E&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;&lt;b style=&quot;&quot;&gt;xternal person name&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[End User]&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;End user using the control-plane via gitlab-ci or terraform&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D4D4D;" value="" vertex="1">
+          <mxGeometry height="65" width="65" x="107.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-10" edge="1" parent="1" source="kEvUB6g1BLyu1ymYnCJj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kEvUB6g1BLyu1ymYnCJj-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="300" />
+              <mxPoint x="440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-11" edge="1" parent="1" source="kEvUB6g1BLyu1ymYnCJj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kEvUB6g1BLyu1ymYnCJj-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="300" />
+              <mxPoint x="440" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-12" connectable="0" parent="kEvUB6g1BLyu1ymYnCJj-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Calls&lt;br&gt;Accor Gateway &amp;amp; DevPortal APIs&lt;br&gt;&amp;nbsp;to CRUD the resources" vertex="1">
+          <mxGeometry relative="1" x="-0.5273" y="2" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000CC;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;b&gt;APIM Control-Plane&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;[Software Systeme]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;The APIM control-plane running on AWS stack&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="20" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Logging System&lt;br&gt;&lt;/b&gt;&lt;/font&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Logging system to monitor and track control-plane usage&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="20" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-7" edge="1" parent="1" source="kEvUB6g1BLyu1ymYnCJj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kEvUB6g1BLyu1ymYnCJj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-14" connectable="0" parent="kEvUB6g1BLyu1ymYnCJj-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Logs activities" vertex="1">
+          <mxGeometry relative="1" x="-0.1667" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Accor Public Gateway&lt;br&gt;&lt;/b&gt;&lt;/span&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Expose Accor APIs for internal/external developers and partners&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kEvUB6g1BLyu1ymYnCJj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Accor DevPortal&lt;br&gt;&lt;/b&gt;&lt;/span&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Expose Accor APIs Documentation for internal/external developers and partners&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="480" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
